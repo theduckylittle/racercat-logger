@@ -4,4 +4,5 @@
 
 ```bash
 virtualenv --python=python2 --prompt="(rc-logger) " ./env
+pip install -r requirements.txt
 ```
