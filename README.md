@@ -1,4 +1,10 @@
-# RacerCat Raspberry Pi Telemetry Capture System
+# RacerCat Telemetry Capture System
+
+## Description
+Modular python based telemetry capture system.  The goal is to provide an extensible telemetry capture system than can work with multiple types of input. Currently tested:
+
+1. Garmin GLO for GPS capture.
+2. Raspberry Pi Sense HAT for accelerometer data.
 
 ## Setting up the Dev Environment
 
