@@ -1,4 +1,4 @@
-# RacerCat Telemetry Capture System
+# ![alt text](/theduckylittle/racercat-logger/logo-sm.png?raw=true) RacerCat Telemetry Capture System
 
 ## Description
 Modular python based telemetry capture system.  The goal is to provide an extensible telemetry capture system than can work with multiple types of input. Currently tested:
