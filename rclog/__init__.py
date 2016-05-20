@@ -75,7 +75,6 @@ class Logger:
 				try:
 					for msg in reader.next(gps.read()):
 						if(not log_ready):
-							print str(msg)
 							# convert the nmea/zda into something more
 							#  generically useful.
 							dt = datetime.combine(
