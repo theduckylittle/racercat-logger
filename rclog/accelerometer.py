@@ -43,3 +43,7 @@ if(HAS_SENSE_HAT):
 				'az' : acr['z']
 			}
 
+		## Tell the writer to put the sensors in the x,y,z order
+		#
+		def order(self):
+			return ['ax','ay','az']
